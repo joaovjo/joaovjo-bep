@@ -1,35 +1,43 @@
-# JoaoVjo Extensions Pack
+# joaovjo's basic extensions pack
 
-Welcome to the JoaoVjo Extensions Pack! This repository contains a collection of useful extensions for enhancing your development experience.
+## Overview
+The joaovjo's basic extensions pack is a collection of useful Visual Studio Code extensions to enhance your development experience.
 
-## Table of Contents
+### Installation
+To install the joaovjo's basic extensions pack, follow these steps:
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+3. Search for "joaovjo's bep".
+4. Click Install.
 
-- [Installation](#installation)
-- [Extensions Included](#extensions-included)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To install the JoaoVjo Extensions Pack, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/joaovjo-extensions-pack.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd joaovjo-extensions-pack
-    ```
-3. Follow the instructions for each extension to install them.
-
-## Extensions Included
-
-This pack includes the following extensions:
-
-- **Extension 1**: Description of extension 1.
-- **Extension 2**: Description of extension 2.
-- **Extension 3**: Description of extension 3.
+### Included Extensions
+| Extension                | Stats                                                                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bracket Pair Toggler     | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dzhavat.bracket-pair-toggler)](https://img.shields.io/visual-studio-marketplace/i/dzhavat.bracket-pair-toggler) |
+| Catppuccin Theme         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc)](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc) |
+| Catppuccin Icons         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc-icons)](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc-icons) |
+| Colorize                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kamikillerto.vscode-colorize)](https://img.shields.io/visual-studio-marketplace/i/kamikillerto.vscode-colorize) |
+| Discord Rich Presence    | [![Installs](https://img.shields.io/visual-studio-marketplace/i/LeonardSSH.vscord)](https://img.shields.io/visual-studio-marketplace/i/LeonardSSH.vscord) |
+| Remote - Containers      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-containers)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-containers) |
+| Docker                   | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-azuretools.vscode-docker)](https://img.shields.io/visual-studio-marketplace/i/ms-azuretools.vscode-docker) |
+| Portuguese (Brazil) Language Pack | [![Installs](https://img.shields.io/visual-studio-marketplace/i/MS-CEINTL.vscode-language-pack-pt-BR)](https://img.shields.io/visual-studio-marketplace/i/MS-CEINTL.vscode-language-pack-pt-BR) |
+| Remote - SSH             | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-ssh)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-ssh) |
+| Remote - SSH: Editing    | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-ssh-edit)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-ssh-edit) |
+| Live Preview             | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.live-server)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.live-server) |
+| Remote Server            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-server)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-server) |
+| Remote - WSL             | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-wsl)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-wsl) |
+| Remote Explorer          | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-explorer)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-explorer) |
+| Docker Compose           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/p1c2u.docker-compose)](https://img.shields.io/visual-studio-marketplace/i/p1c2u.docker-compose) |
+| Docker Explorer          | [![Installs](https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer)](https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer) |
+| Docker Linter            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/henriiik.docker-linter)](https://img.shields.io/visual-studio-marketplace/i/henriiik.docker-linter) |
+| Feather Icons            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/melishev.feather-vscode)](https://img.shields.io/visual-studio-marketplace/i/melishev.feather-vscode) |
+| GitHub Codespaces        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.codespaces)](https://img.shields.io/visual-studio-marketplace/i/GitHub.codespaces) |
+| GitHub Copilot           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot) |
+| GitHub Copilot Chat      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat) |
+| GitLens                  | [![Installs](https://img.shields.io/visual-studio-marketplace/i/eamodio.gitlens)](https://img.shields.io/visual-studio-marketplace/i/eamodio.gitlens) |
+| Indent Rainbow           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/oderwat.indent-rainbow)](https://img.shields.io/visual-studio-marketplace/i/oderwat.indent-rainbow) |
+| Live Server              | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ritwickdey.LiveServer)](https://img.shields.io/visual-studio-marketplace/i/ritwickdey.LiveServer) |
+| WakaTime                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/WakaTime.vscode-wakatime)](https://img.shields.io/visual-studio-marketplace/i/WakaTime.vscode-wakatime) |
 
 ## Contributing
 
@@ -45,11 +53,11 @@ To use the extensions in this pack, follow these steps:
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
-3. Search for each extension by name and click the `Install` button.
+3. Search for "joaovjo's bep" and click the `Install` button.
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/yourusername/joaovjo-extensions-pack/issues).
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/joaovjo/joaovjo-bep/issues).
 
 ## Changelog
 
@@ -58,24 +66,3 @@ See the [CHANGELOG](CHANGELOG.md) for a history of changes and updates to this p
 ## Acknowledgements
 
 We would like to thank all the contributors and the open-source community for their valuable work.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
