@@ -1,0 +1,47 @@
+{
+    "name": "joaovjo-bep",
+    "displayName": "joaovjo's bep",
+    "version": "0.0.1",
+    "preview": true,
+    "publisher": "joaovjo",
+    "publisher.name": "João Vitor de Jesus Oliveira",
+    "icon": "icon.png",
+    "description": "joaovjo's basic extensions pack",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dzhavat.bracket-pair-toggler",
+        "catppuccin.catppuccin-vsc",
+        "catppuccin.catppuccin-vsc-icons",
+        "kamikillerto.vscode-colorize",
+        "LeonardSSH.vscord",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        "MS-CEINTL.vscode-language-pack-pt-BR",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode.live-server",
+        "ms-vscode.remote-server",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode.remote-explorer",
+        "p1c2u.docker-compose",
+        "formulahendry.docker-explorer",
+        "henriiik.docker-linter",
+        "melishev.feather-vscode",
+        "GitHub.codespaces",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "ritwickdey.LiveServer",
+        "WakaTime.vscode-wakatime"
+    ],
+    "engines": {
+        "vscode": "^1.95.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joaovjo/joaovjo-bep.git"
+    }
+}
