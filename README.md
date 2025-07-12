@@ -13,10 +13,6 @@ To install the joaovjo's basic extensions pack, follow these steps:
 ### Included Extensions
 | Extension                | Stats                                                                                                                                                                     |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bracket Pair Toggler     | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dzhavat.bracket-pair-toggler)](https://img.shields.io/visual-studio-marketplace/i/dzhavat.bracket-pair-toggler) |
-| Catppuccin Theme         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc)](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc) |
-| Catppuccin Icons         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc-icons)](https://img.shields.io/visual-studio-marketplace/i/catppuccin.catppuccin-vsc-icons) |
-| Colorize                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kamikillerto.vscode-colorize)](https://img.shields.io/visual-studio-marketplace/i/kamikillerto.vscode-colorize) |
 | Discord Rich Presence    | [![Installs](https://img.shields.io/visual-studio-marketplace/i/LeonardSSH.vscord)](https://img.shields.io/visual-studio-marketplace/i/LeonardSSH.vscord) |
 | Remote - Containers      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-containers)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-containers) |
 | Docker                   | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-azuretools.vscode-docker)](https://img.shields.io/visual-studio-marketplace/i/ms-azuretools.vscode-docker) |
@@ -27,17 +23,13 @@ To install the joaovjo's basic extensions pack, follow these steps:
 | Remote Server            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-server)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-server) |
 | Remote - WSL             | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-wsl)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode-remote.remote-wsl) |
 | Remote Explorer          | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-explorer)](https://img.shields.io/visual-studio-marketplace/i/ms-vscode.remote-explorer) |
-| Docker Compose           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/p1c2u.docker-compose)](https://img.shields.io/visual-studio-marketplace/i/p1c2u.docker-compose) |
-| Docker Explorer          | [![Installs](https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer)](https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer) |
-| Docker Linter            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/henriiik.docker-linter)](https://img.shields.io/visual-studio-marketplace/i/henriiik.docker-linter) |
 | Feather Icons            | [![Installs](https://img.shields.io/visual-studio-marketplace/i/melishev.feather-vscode)](https://img.shields.io/visual-studio-marketplace/i/melishev.feather-vscode) |
 | GitHub Codespaces        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.codespaces)](https://img.shields.io/visual-studio-marketplace/i/GitHub.codespaces) |
 | GitHub Copilot           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot) |
 | GitHub Copilot Chat      | [![Installs](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat)](https://img.shields.io/visual-studio-marketplace/i/GitHub.copilot-chat) |
 | GitLens                  | [![Installs](https://img.shields.io/visual-studio-marketplace/i/eamodio.gitlens)](https://img.shields.io/visual-studio-marketplace/i/eamodio.gitlens) |
-| Indent Rainbow           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/oderwat.indent-rainbow)](https://img.shields.io/visual-studio-marketplace/i/oderwat.indent-rainbow) |
-| Live Server              | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ritwickdey.LiveServer)](https://img.shields.io/visual-studio-marketplace/i/ritwickdey.LiveServer) |
 | WakaTime                 | [![Installs](https://img.shields.io/visual-studio-marketplace/i/WakaTime.vscode-wakatime)](https://img.shields.io/visual-studio-marketplace/i/WakaTime.vscode-wakatime) |
+| Docker                   | [![Installs](https://img.shields.io/visual-studio-marketplace/i/docker.docker)](https://img.shields.io/visual-studio-marketplace/i/docker.docker) |
 
 ## Contributing
 

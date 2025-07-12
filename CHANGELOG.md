@@ -2,6 +2,13 @@
 
 All notable changes to the "joaovjo-extension-pack-basic" extension pack will be documented in this file.
 
+## 0.0.3
+
+- Streamlined extension pack by removing unnecessary extensions
+- Removed: Bracket Pair Toggler, Catppuccin Theme, Catppuccin Icons, Colorize, Docker Compose, Docker Explorer, Docker Linter, Indent Rainbow, Live Server
+- Added: Docker extension (docker.docker) to replace multiple Docker-related extensions
+- Improved pack performance and reduced redundancy
+
 ## 0.0.2
 
 - Updated README.md for better clarity
