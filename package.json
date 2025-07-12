@@ -1,7 +1,7 @@
 {
     "name": "joaovjo-bep",
     "displayName": "joaovjo's bep",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "preview": true,
     "publisher": "joaovjo",
     "publisher.name": "João Vitor de Jesus Oliveira",
@@ -11,10 +11,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "dzhavat.bracket-pair-toggler",
-        "catppuccin.catppuccin-vsc",
-        "catppuccin.catppuccin-vsc-icons",
-        "kamikillerto.vscode-colorize",
         "LeonardSSH.vscord",
         "ms-vscode-remote.remote-containers",
         "ms-azuretools.vscode-docker",
@@ -25,17 +21,13 @@
         "ms-vscode.remote-server",
         "ms-vscode-remote.remote-wsl",
         "ms-vscode.remote-explorer",
-        "p1c2u.docker-compose",
-        "formulahendry.docker-explorer",
-        "henriiik.docker-linter",
         "melishev.feather-vscode",
         "GitHub.codespaces",
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "eamodio.gitlens",
-        "oderwat.indent-rainbow",
-        "ritwickdey.LiveServer",
-        "WakaTime.vscode-wakatime"
+        "WakaTime.vscode-wakatime",
+        "docker.docker"
     ],
     "engines": {
         "vscode": "^1.95.3"
